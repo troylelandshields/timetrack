@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "imvfVf7lRxu0Fz7V2G43CUC6Ff0=",
+			"path": "github.com/spf13/cobra",
+			"revision": "615425954c3b0d9485a7027d4d451fdcdfdee84e",
+			"revisionTime": "2018-04-12T12:08:29Z"
+		},
+		{
+			"checksumSHA1": "k5TsfhX2vvfffYbZQ4fMKtL5+cA=",
+			"path": "github.com/spf13/pflag",
+			"revision": "583c0c0531f06d5278b7d917446061adc344b5cd",
+			"revisionTime": "2018-04-12T12:09:13Z"
+		}
+	],
+	"rootPath": "github.com/troylelandshields/timetrack"
+}
